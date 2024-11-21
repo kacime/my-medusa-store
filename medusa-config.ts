@@ -17,5 +17,8 @@ module.exports = defineConfig({
     {
       resolve: "./src/modules/hello",
     },
+    {
+      resolve: './src/modules/brand',
+    }
   ]
 })
